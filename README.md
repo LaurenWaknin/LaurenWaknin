@@ -7,6 +7,7 @@
 ![node](https://user-images.githubusercontent.com/115545687/210268698-3f769883-fcad-42ce-80e2-1f25dfa7f670.png)
 ![css](https://user-images.githubusercontent.com/115545687/210269140-0965fb17-f7bc-4d59-98bb-0ca10f4bbdf6.png)
 ![http](https://user-images.githubusercontent.com/115545687/210269129-2c95e83f-aa43-46d3-8306-061dbce05c6c.png)
+![postgresql](https://user-images.githubusercontent.com/115545687/210269712-377cd5a3-d715-4c10-8a65-4f7e63c31bb5.png)
 
 - 🔭 I’m currently working on an app for motorcycle riders to connect with other riders near them in order to plan a ride
 
