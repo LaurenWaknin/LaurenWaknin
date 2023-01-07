@@ -2,13 +2,6 @@
 
 - 🌱 I recently learned:
 
-![react](https://user-images.githubusercontent.com/115545687/210268451-cb6899c5-0785-4dfe-b0d8-814e90016e1d.png)
-![js](https://user-images.githubusercontent.com/115545687/210268714-245641e9-1ab6-4bc9-bd17-c8afe194c3ac.png)
-![node](https://user-images.githubusercontent.com/115545687/210268698-3f769883-fcad-42ce-80e2-1f25dfa7f670.png)
-![css](https://user-images.githubusercontent.com/115545687/210269140-0965fb17-f7bc-4d59-98bb-0ca10f4bbdf6.png)
-![http](https://user-images.githubusercontent.com/115545687/210269129-2c95e83f-aa43-46d3-8306-061dbce05c6c.png)
-![postgresql](https://user-images.githubusercontent.com/115545687/210269712-377cd5a3-d715-4c10-8a65-4f7e63c31bb5.png)
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
