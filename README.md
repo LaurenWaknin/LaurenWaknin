@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on an app for motorcycle riders to connect with other riders near them in order to plan a ride
+- 🔭 I’m currently working on an appliaction that allows motorcycle users nearby to connect with each other in order to ride together
 
 - 📫 How to reach me: laurenwaknin27@gmail.com
 
